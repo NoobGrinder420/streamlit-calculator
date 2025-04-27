@@ -71,10 +71,4 @@ This app was my first Streamlit project, and through building it, I learned:
 2. Install required dependencies (`pip install -r requirements.txt`).
 3. Edit `Calculator.py` to add new features or make modifications.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
-
-Feel free to adjust the URL and repository specifics! This README highlights the key points about your learning journey while also providing all necessary details for others to use or contribute to the project.
